@@ -1,21 +1,9 @@
-@media screen and (min-width: 601px) {
-	h1 {
-		font-family: 'Montserrat', sans-serif;
-		font-weight: 600;
-		font-size: 80px;
-		text-align: center;
-		margin-bottom: -15px;
-	}
-}
-
-@media screen and (max-width: 600px) {
-	h1 {
-		font-family: 'Montserrat', sans-serif;
-		font-weight: 600;
-		font-size: 48px;
-		text-align: center;
-		margin-bottom: -15px;
-	}
+h1 {
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 600;
+	font-size: 80px;
+	text-align: center;
+	margin-bottom: -15px;
 }
 
 h3 {
@@ -114,6 +102,7 @@ footer {
 	margin: 0 auto;
 	text-align: center;
 }
-.albums{
+
+.albums {
 	width: 280px;
 }
